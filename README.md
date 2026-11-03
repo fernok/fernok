@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Fernok 👋
+- 🔭 WeChat 微信：fernke
+- 🌱 DouYin 抖音：fernke
+- ⚡ TouTiao 今日头条：fernke
+- ✨ YouTube : https://www.youtube.com/@fernke-top
+  
 <!--
 **fernok/fernok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
